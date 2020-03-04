@@ -1,0 +1,19 @@
+2019-12-25 22:05:36.144 [      main]TRACE                          - Initializting the log file in before suite
+2019-12-25 22:05:36.150 [      main]TRACE                          - beforetest annotations has been used for the test: Default test
+2019-12-25 22:05:36.177 [      main]TRACE                          - Executing the test case:homePage
+2019-12-25 22:05:49.181 [      main]TRACE                          - Completed the testcase:homePage
+2019-12-25 22:05:49.185 [      main]TRACE                          - Executing the test case:navigate_to_amazonPage
+2019-12-25 22:05:49.915 [      main]TRACE                          - Completed the testcase:navigate_to_amazonPage
+2019-12-25 22:05:49.921 [      main]TRACE                          - Executing the test case:enteringValueInSearch
+2019-12-25 22:05:53.961 [      main]TRACE                          - Completed the testcase:enteringValueInSearch
+2019-12-25 22:05:53.962 [      main]TRACE                          - Executing the test case:getting_the_price_of_the_phone
+2019-12-25 22:05:54.467 [      main]TRACE                          - Completed the testcase:getting_the_price_of_the_phone
+2019-12-25 22:05:54.468 [      main]TRACE                          - Executing the test case:navigate_to_flipkartPage
+2019-12-25 22:06:06.872 [      main]TRACE                          - Completed the testcase:navigate_to_flipkartPage
+2019-12-25 22:06:06.873 [      main]TRACE                          - Executing the test case:enterValueInSearchBox
+2019-12-25 22:06:08.268 [      main]TRACE                          - Completed the testcase:enterValueInSearchBox
+2019-12-25 22:06:08.269 [      main]TRACE                          - Executing the test case:phone_price
+2019-12-25 22:06:10.845 [      main]TRACE                          - Completed the testcase:phone_price
+2019-12-25 22:06:10.846 [      main]TRACE                          - Executing the test case:priceComparison
+2019-12-25 22:06:11.202 [      main]TRACE                          - Completed the testcase:priceComparison
+2019-12-25 22:06:11.845 [      main]TRACE                          - Exceution has been completed

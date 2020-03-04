@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="118931" started-at="2020-01-06T13:21:24 IST" finished-at="2020-01-06T13:23:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="118931" started-at="2020-01-06T13:21:24 IST" finished-at="2020-01-06T13:23:23 IST">
+      <class name="Test.PriceComparisonTest">
+        <test-method status="PASS" signature="beforesuite(org.testng.ITestContext)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforesuite" is-config="true" duration-ms="979" started-at="2020-01-06T13:21:23 IST" finished-at="2020-01-06T13:21:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@27f9e982]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforeTest" is-config="true" duration-ms="114" started-at="2020-01-06T13:21:24 IST" finished-at="2020-01-06T13:21:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@27f9e982]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforemethod" is-config="true" duration-ms="5" started-at="2020-01-06T13:21:24 IST" finished-at="2020-01-06T13:21:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.AmazonPageTest.homePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="homePage()[pri:0, instance:Test.PriceComparisonTest@e320068]" name="homePage" duration-ms="62970" started-at="2020-01-06T13:21:24 IST" finished-at="2020-01-06T13:22:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method status="PASS" signature="resultstatus(org.testng.ITestResult)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="resultstatus" is-config="true" duration-ms="4122" started-at="2020-01-06T13:22:27 IST" finished-at="2020-01-06T13:22:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homePage status=SUCCESS method=AmazonPageTest.homePage()[pri:0, instance:Test.PriceComparisonTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultstatus -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforemethod" is-config="true" duration-ms="16" started-at="2020-01-06T13:22:31 IST" finished-at="2020-01-06T13:22:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.AmazonPageTest.navigate_to_amazonPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="navigate_to_amazonPage()[pri:1, instance:Test.PriceComparisonTest@e320068]" name="navigate_to_amazonPage" duration-ms="480" started-at="2020-01-06T13:22:31 IST" finished-at="2020-01-06T13:22:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_amazonPage -->
+        <test-method status="PASS" signature="resultstatus(org.testng.ITestResult)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="resultstatus" is-config="true" duration-ms="974" started-at="2020-01-06T13:22:32 IST" finished-at="2020-01-06T13:22:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigate_to_amazonPage status=SUCCESS method=AmazonPageTest.navigate_to_amazonPage()[pri:1, instance:Test.PriceComparisonTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultstatus -->
+        <test-method status="PASS" signature="enteringValueInSearch()[pri:2, instance:Test.PriceComparisonTest@e320068]" name="enteringValueInSearch" duration-ms="8975" started-at="2020-01-06T13:22:33 IST" finished-at="2020-01-06T13:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringValueInSearch -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforemethod" is-config="true" duration-ms="0" started-at="2020-01-06T13:22:33 IST" finished-at="2020-01-06T13:22:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.AmazonPageTest.enteringValueInSearch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="resultstatus(org.testng.ITestResult)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="resultstatus" is-config="true" duration-ms="2153" started-at="2020-01-06T13:22:42 IST" finished-at="2020-01-06T13:22:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enteringValueInSearch status=SUCCESS method=AmazonPageTest.enteringValueInSearch()[pri:2, instance:Test.PriceComparisonTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultstatus -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforemethod" is-config="true" duration-ms="1" started-at="2020-01-06T13:22:44 IST" finished-at="2020-01-06T13:22:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.AmazonPageTest.getting_the_price_of_the_phone()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="getting_the_price_of_the_phone()[pri:3, instance:Test.PriceComparisonTest@e320068]" name="getting_the_price_of_the_phone" duration-ms="599" started-at="2020-01-06T13:22:44 IST" finished-at="2020-01-06T13:22:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getting_the_price_of_the_phone -->
+        <test-method status="PASS" signature="resultstatus(org.testng.ITestResult)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="resultstatus" is-config="true" duration-ms="553" started-at="2020-01-06T13:22:44 IST" finished-at="2020-01-06T13:22:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getting_the_price_of_the_phone status=SUCCESS method=AmazonPageTest.getting_the_price_of_the_phone()[pri:3, instance:Test.PriceComparisonTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultstatus -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforemethod" is-config="true" duration-ms="1" started-at="2020-01-06T13:22:45 IST" finished-at="2020-01-06T13:22:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.FlipkartPageTest.navigate_to_flipkartPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="navigate_to_flipkartPage()[pri:4, instance:Test.PriceComparisonTest@e320068]" name="navigate_to_flipkartPage" duration-ms="27988" started-at="2020-01-06T13:22:45 IST" finished-at="2020-01-06T13:23:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_flipkartPage -->
+        <test-method status="PASS" signature="resultstatus(org.testng.ITestResult)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="resultstatus" is-config="true" duration-ms="1762" started-at="2020-01-06T13:23:13 IST" finished-at="2020-01-06T13:23:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigate_to_flipkartPage status=SUCCESS method=FlipkartPageTest.navigate_to_flipkartPage()[pri:4, instance:Test.PriceComparisonTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultstatus -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforemethod" is-config="true" duration-ms="1" started-at="2020-01-06T13:23:15 IST" finished-at="2020-01-06T13:23:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.FlipkartPageTest.enterValueInSearchBox()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="enterValueInSearchBox()[pri:5, instance:Test.PriceComparisonTest@e320068]" name="enterValueInSearchBox" duration-ms="2736" started-at="2020-01-06T13:23:15 IST" finished-at="2020-01-06T13:23:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterValueInSearchBox -->
+        <test-method status="PASS" signature="resultstatus(org.testng.ITestResult)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="resultstatus" is-config="true" duration-ms="3831" started-at="2020-01-06T13:23:18 IST" finished-at="2020-01-06T13:23:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enterValueInSearchBox status=SUCCESS method=FlipkartPageTest.enterValueInSearchBox()[pri:5, instance:Test.PriceComparisonTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultstatus -->
+        <test-method status="PASS" signature="phone_price()[pri:6, instance:Test.PriceComparisonTest@e320068]" name="phone_price" duration-ms="243" started-at="2020-01-06T13:23:21 IST" finished-at="2020-01-06T13:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone_price -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforemethod" is-config="true" duration-ms="0" started-at="2020-01-06T13:23:21 IST" finished-at="2020-01-06T13:23:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.FlipkartPageTest.phone_price()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="resultstatus(org.testng.ITestResult)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="resultstatus" is-config="true" duration-ms="499" started-at="2020-01-06T13:23:22 IST" finished-at="2020-01-06T13:23:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=phone_price status=SUCCESS method=FlipkartPageTest.phone_price()[pri:6, instance:Test.PriceComparisonTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultstatus -->
+        <test-method status="PASS" signature="priceComparison()[pri:7, instance:Test.PriceComparisonTest@e320068]" name="priceComparison" duration-ms="130" started-at="2020-01-06T13:23:22 IST" finished-at="2020-01-06T13:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceComparison -->
+        <test-method status="PASS" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="beforemethod" is-config="true" duration-ms="0" started-at="2020-01-06T13:23:22 IST" finished-at="2020-01-06T13:23:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.PriceComparisonTest.priceComparison()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="resultstatus(org.testng.ITestResult)[pri:0, instance:Test.PriceComparisonTest@e320068]" name="resultstatus" is-config="true" duration-ms="494" started-at="2020-01-06T13:23:22 IST" finished-at="2020-01-06T13:23:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=priceComparison status=SUCCESS method=PriceComparisonTest.priceComparison()[pri:7, instance:Test.PriceComparisonTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultstatus -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Test.PriceComparisonTest@e320068]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-01-06T13:23:23 IST" finished-at="2020-01-06T13:23:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:Test.PriceComparisonTest@e320068]" name="aftersuite" is-config="true" duration-ms="3492" started-at="2020-01-06T13:23:29 IST" finished-at="2020-01-06T13:23:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- Test.PriceComparisonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

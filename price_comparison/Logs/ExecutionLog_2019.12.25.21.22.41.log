@@ -1,0 +1,9 @@
+2019-12-25 21:22:42.285 [      main]TRACE                          - Initializting the log file in before suite
+2019-12-25 21:22:42.291 [      main]TRACE                          - beforetest annotations has been used for the test: Default test
+2019-12-25 21:22:42.322 [      main]TRACE                          - Executing the test case:homePage
+2019-12-25 21:22:53.745 [      main]TRACE                          - Completed the testcase:homePage
+2019-12-25 21:22:53.749 [      main]TRACE                          - Executing the test case:navigate_to_flipkartPage
+2019-12-25 21:23:20.386 [      main]TRACE                          - Completed the testcase:navigate_to_flipkartPage
+2019-12-25 21:23:20.387 [      main]TRACE                          - Executing the test case:navigate_to_amazonPage
+2019-12-25 21:23:20.846 [      main]TRACE                          - Completed the testcase:navigate_to_amazonPage
+2019-12-25 21:23:20.847 [      main]TRACE                          - Executing the test case:enteringValueInSearch
